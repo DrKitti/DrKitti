@@ -11,7 +11,12 @@ I'm an student in joint program between <br>
 * Data Scientist Intern at Ministry of Public Health (2 June 2025 - 31 July 2025)
 * Super AI Engineer Season 6 by AIAT (Machima House)
 
-
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://bdi.or.th/wp-content/uploads/2022/03/logo-bdi-for-web.png" width="80" alt="BDI Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Seal_of_the_Department_of_Disease_Control.svg" width="50" alt="MOPH Logo"/>
+  <img src="https://ijckg2026.aiat.or.th/logo-aiat.png" width="120" alt="AIAT Logo"/>
+  
+</div>
 
 
 ## Tech Stack ⚙️
